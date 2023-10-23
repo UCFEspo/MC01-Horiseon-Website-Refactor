@@ -22,9 +22,9 @@ The client requested a refactoring of its homepage codebase that is follows acce
 * Added accessibility attributes to images
 * Applied the DRY principle to the codebase for reducing redundancy and promoting efficient, organized code.
 ## Links
-[Link to the deployed application](https://pkriengsiri.github.io/horiseon-code-refactor/)
+[Link to the deployed application](https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git)
 
-[Link to the GitHub repository](https://github.com/pkriengsiri/horiseon-code-refactor)
+[Link to the GitHub repository](https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git)
 ## References and Tutorials Utilized
 * [Make a README](https://www.makeareadme.com/)
 * [HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
