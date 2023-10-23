@@ -33,7 +33,7 @@ How to install this project:
 
 2. Above the list of files, click <> **Code**.
 
-   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/GitHub%20Green%20Code%20Button.png)
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/GitHub-Green-Code-Button.png)
 
 3. Copy the URL for the repository.
 
@@ -43,7 +43,7 @@ How to install this project:
 
    * To clone a repository using GitHub CLI, click GitHub CLI, then click the "Copy" button.
 
-   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/Repo%20HTTPS%20Link.png)
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/Repo-HTTPS-Link.png)
 
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
@@ -81,10 +81,3 @@ Copyright &copy; [2023] [MIchael Esposito]
 * [HTML.com: SEO - Search Engine Optimization](https://html.com/seo/)
 * [How to Create the Copyright Symbol in HTML](https://careerkarma.com/blog/html-copyright-symbol/#:~:text=The%20HTML%20copyright%20symbol%20is,How%20to%20Learn%20HTML%20guide.)
 * [What is DRY? Hint: It makes for great code](https://docs.getdbt.com/terms/dry)
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
