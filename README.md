@@ -33,13 +33,17 @@ How to install this project:
 
 2. Above the list of files, click <> **Code**.
 
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/GitHub%20Green%20Code%20Button.png)
+
 3. Copy the URL for the repository.
 
-* To clone the repository using HTTPS, under "HTTPS", then click the "Copy" button.
+   * To clone the repository using HTTPS, under "HTTPS", then click the "Copy" button.
 
-* To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the "Copy" button.
+   * To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the "Copy" button.
 
-* To clone a repository using GitHub CLI, click GitHub CLI, then click the "Copy" button.
+   * To clone a repository using GitHub CLI, click GitHub CLI, then click the "Copy" button.
+
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/Repo%20HTTPS%20Link.png)
 
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
