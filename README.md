@@ -22,9 +22,9 @@ The client requested a refactoring of its homepage codebase that is follows acce
 * Added accessibility attributes to images
 * Applied the DRY principle to the codebase for reducing redundancy and promoting efficient, organized code.
 ## Links
-[Link to the deployed application](https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git)
+[Link to the deployed application](https://ucfespo.github.io/MC01-Horiseon-Website-Refactor/)
 
-[Link to the GitHub repository](https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git)
+[Link to the GitHub repository](https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor)
 ## Installation
 
 How to install this project:
