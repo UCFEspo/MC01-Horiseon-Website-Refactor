@@ -27,14 +27,47 @@ The client requested a refactoring of its homepage codebase that is follows acce
 [Link to the GitHub repository](https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git)
 ## Installation
 
-Install my-project with npm
+How to install this project:
 
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## References and Tutorials Utilized
+1. On GitHub.com, navigate to the main page of the repository.
+
+2. Above the list of files, click <> **Code**.
+
+3. Copy the URL for the repository.
+
+* To clone the repository using HTTPS, under "HTTPS", then click the "Copy" button.
+
+* To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the "Copy" button.
+
+* To clone a repository using GitHub CLI, click GitHub CLI, then click the "Copy" button.
+
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type ```git clone```, and then paste the URL you copied earlier.
+   ```
+   git clone https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git
+   ```
+7. Press **Enter** to create your local clone.
+You shgould see the following response if successful:
+   ```
+   $ git clone https://github.com/UCFEspo/MC01-Horiseon-Website-Refactor.git
+   > Cloning into `Spoon-Knife`...
+    > remote: Counting objects: 10, done.
+    > remote: Compressing objects: 100% (8/8), done.
+    > remove: Total 10 (delta 1), reused 10 (delta 1)
+    > Unpacking objects: 100% (10/10), done.
+   ```
+## Screenshot
+
+Once deployed, the application can be viewed in a traditional desktop web browser. It has not been optimized for smaller screens yet.
+
+![screenshot of index.html](./assets/images/01-html-css-git-homework-demo.png)
+## Credits
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+Copyright &copy; [2023] [MIchael Esposito]
+## Acknowledgments
 * [Make a README](https://www.makeareadme.com/)
 * [HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
 * [Semantic HTML: What It Is and How to Use It Correctly](https://www.semrush.com/blog/semantic-html5-guide/)
@@ -42,25 +75,5 @@ Install my-project with npm
 * [How to Design Your Website for Screen Reader Accessibility](https://blog.hubspot.com/website/screen-reader-accessibility)
 * [Google Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 * [HTML.com: SEO - Search Engine Optimization](https://html.com/seo/)
+* [How to Create the Copyright Symbol in HTML](https://careerkarma.com/blog/html-copyright-symbol/#:~:text=The%20HTML%20copyright%20symbol%20is,How%20to%20Learn%20HTML%20guide.)
 * [What is DRY? Hint: It makes for great code](https://docs.getdbt.com/terms/dry)
-## Credits
-## License
-Copyright &copy; [2023] [MIchael Esposito]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
