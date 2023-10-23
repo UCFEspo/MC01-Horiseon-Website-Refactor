@@ -33,7 +33,7 @@ How to install this project:
 
 2. Above the list of files, click <> **Code**.
 
-   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/GitHub-Green-Code-Button.png)
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./Assets/images/GitHub-Green-Code-Button.png)
 
 3. Copy the URL for the repository.
 
@@ -43,7 +43,7 @@ How to install this project:
 
    * To clone a repository using GitHub CLI, click GitHub CLI, then click the "Copy" button.
 
-   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/Repo-HTTPS-Link.png)
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./Assets/images/Repo-HTTPS-Link.png)
 
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
@@ -64,7 +64,7 @@ You shgould see the following response if successful:
 ## Screenshot
 
 Once deployed, the application can be viewed in a traditional desktop web browser. It has not been optimized for smaller screens yet.
-   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/screenshot.png)
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./Assets/images/screenshot.png)
 
 ## Credits
 ## License
