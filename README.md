@@ -64,8 +64,8 @@ You shgould see the following response if successful:
 ## Screenshot
 
 Once deployed, the application can be viewed in a traditional desktop web browser. It has not been optimized for smaller screens yet.
+   ![Module 1 Challenge - Refactoring the Horiseon Website Code-2](./assets/images/screenshot.png)
 
-![screenshot of index.html](./assets/images/01-html-css-git-homework-demo.png)
 ## Credits
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
